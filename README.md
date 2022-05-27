@@ -1,4 +1,4 @@
-# Fire-detection-using-ML
+# Fire-detection-using-Surveillance camera
 
 Description
 -----------
